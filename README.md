@@ -18,7 +18,7 @@ Check the folder screenshot for both mobile and desktop view.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Codesand Box : [Add solution URL here](https://ml0j03.csb.app/)
 - Live Site URL: (https://vercel.com/ebi-akangbou)
 
 ## My process
@@ -38,5 +38,5 @@ What I learnt from this project was creating an arrow chat box for the first tim
 ## Author
 
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
-- Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
 - Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
