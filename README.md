@@ -39,4 +39,4 @@ What I learnt from this project was creating an arrow chat box for the first tim
 
 - Website - [Ebi Akangbou](https://vercel.com/ebi-akangbou)
 - Frontend Mentor - [Ebi Akangbou](https://www.frontendmentor.io/profile/Ebi-Akangbou)
-- Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)
+- Twitter - [Ebi Akangbou](https://www.twitter.com/EAkangbou)  
